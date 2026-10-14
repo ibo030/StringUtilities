@@ -1,1 +1,1 @@
-# StringUtilities
+# StringHelper
